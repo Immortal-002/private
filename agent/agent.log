@@ -1,0 +1,12 @@
+2026-02-23 23:26:05 [INFO] ============================================
+2026-02-23 23:26:05 [INFO] Telemetry Agent starting
+2026-02-23 23:26:05 [INFO]   Agent ID : 733b39dea99948dc868f33bf1d2be2b2-32987-1771869365
+2026-02-23 23:26:05 [INFO]   Hostname : Immortal
+2026-02-23 23:26:05 [INFO]   OS       : Linux 6.12.74-1-lts
+2026-02-23 23:26:05 [INFO]   API      : http://localhost:8080
+2026-02-23 23:26:05 [INFO] ============================================
+2026-02-23 23:26:05 [INFO] Registered with backend successfully
+2026-02-23 23:26:06 [INFO] Telemetry sent successfully
+2026-02-23 23:26:11 [INFO] Telemetry sent successfully
+2026-02-23 23:26:16 [INFO] Telemetry sent successfully
+2026-02-23 23:26:21 [INFO] Telemetry sent successfully

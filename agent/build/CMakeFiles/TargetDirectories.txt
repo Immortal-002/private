@@ -1,0 +1,3 @@
+/home/rana/NO/agent/build/CMakeFiles/telemetry_agent.dir
+/home/rana/NO/agent/build/CMakeFiles/edit_cache.dir
+/home/rana/NO/agent/build/CMakeFiles/rebuild_cache.dir

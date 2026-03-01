@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/rana/NO/agent/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

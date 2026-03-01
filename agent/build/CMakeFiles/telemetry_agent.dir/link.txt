@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/telemetry_agent.dir/link.d CMakeFiles/telemetry_agent.dir/src/main.cpp.o -o telemetry_agent  /usr/lib/libcurl.so /usr/lib/libcurl.so
